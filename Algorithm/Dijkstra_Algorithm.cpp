@@ -128,7 +128,7 @@ int main(void)
 	arr[4].push_back(make_pair(2, 2));
 	arr[4].push_back(make_pair(3, 3));
 	arr[4].push_back(make_pair(5, 1));
-
+	
 	arr[5].push_back(make_pair(3, 1));
 	arr[5].push_back(make_pair(4, 1));
 	arr[5].push_back(make_pair(6, 2));
